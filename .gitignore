@@ -1,0 +1,9 @@
+data/
+outputs/
+*.parquet
+*.npy
+*.npz
+*.cbm
+__pycache__/
+.venv/
+

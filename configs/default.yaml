@@ -1,0 +1,13 @@
+seed: 123
+expected_groups: 2904
+outer_splits: 5
+repeats: 3
+peak_height: 3
+peak_distance: 51
+coincidence_bin: 200
+catboost:
+  iterations: 350
+  depth: 5
+  learning_rate: 0.03
+  l2_leaf_reg: 5.0
+
